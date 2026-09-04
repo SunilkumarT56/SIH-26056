@@ -1,0 +1,13 @@
+reference_period,origin_airport,destination_airport,origin_city,destination_city,passenger_count
+2026-08,DEL,BOM,Delhi,Mumbai,120
+2026-08,BOM,DEL,Mumbai,Delhi,110
+2026-08,DEL,BLR,Delhi,Bengaluru,90
+2026-08,BLR,DEL,Bengaluru,Delhi,85
+2026-08,BOM,BLR,Mumbai,Bengaluru,70
+2026-08,BLR,BOM,Bengaluru,Mumbai,65
+2026-08,DEL,HYD,Delhi,Hyderabad,55
+2026-08,HYD,DEL,Hyderabad,Delhi,50
+2026-08,DEL,CCU,Delhi,Kolkata,40
+2026-08,CCU,DEL,Kolkata,Delhi,35
+2026-08,DEL,MAA,Delhi,Chennai,30
+2026-08,MAA,DEL,Chennai,Delhi,25
